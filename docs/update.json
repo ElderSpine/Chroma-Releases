@@ -1,6 +1,6 @@
 {
-  "latestVersion": "3.1.0",
-  "downloadUrl": "https://github.com/ElderSpine/Chroma-Releases/releases/download/v3.1.0/ChromaSetup.exe",
-  "releaseNotes": "Chroma update center added. You can now check, download, and install updates from inside the app.",
+  "latestVersion": "3.1.2",
+  "downloadUrl": "https://github.com/ElderSpine/Chroma-Releases/releases/download/v3.1.2/ChromaSetup.exe",
+  "releaseNotes": "Added new color tools, polish fixes, and update improvements.",
   "mandatory": false
 }
